@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 
+
 app = Flask(__name__)
 
 # Setup the model
