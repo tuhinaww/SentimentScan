@@ -38,7 +38,7 @@ def index():
         reviews = get_reviews(url)
         top_10_comments = get_top_10_comments(reviews)
         overall_sentiment = top_10_comments['sentiment'].mean()
-        return render_template('result.html', sentiment=overall_sentiment, top_comments=top_10_comments['review'])
+        return render_template('result.html', sentiment=overall_sentiment, top_comments=top_10_comments.to_dict(orient='records'))
     return render_template('index.html')
 
 if __name__ == '__main__':
