@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentiment Analysis</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Sentiment Analysis</h1>
+    <form method="POST" action="/">
+        <label for="url">Enter Yelp URL:</label>
+        <input type="text" name="url" required>
+        <input type="submit" value="Analyze">
+    </form>
+</body>
+</html>

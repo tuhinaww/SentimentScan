@@ -1,0 +1,58 @@
+/* Apply styles to the body of both templates */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+/* Style the header */
+h1 {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+}
+
+/* Style the form */
+form {
+    margin: 20px;
+    text-align: center;
+}
+
+/* Style the input field and submit button */
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style the result page */
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
