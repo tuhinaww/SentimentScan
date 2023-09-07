@@ -27,4 +27,4 @@ Once the dependencies are installed, you can start the SentimentScan web app by 
 ```shell
 python yelp.py
 ```
-This will launch the application locally, and you can access it in your web browser by going to [http://localhost:5000](http://localhost:5000).
+This will launch the application locally, and you can access it in your web browser by going to http://your-ip:5000.
