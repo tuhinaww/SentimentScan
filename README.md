@@ -11,7 +11,7 @@ Follow these steps to run SentimentScan on your local machine:
 Clone the SentimentScan repository to your local machine using the following command:
 
 ```shell
-git clone https://github.com/yourusername/SentimentScan.git
+git clone https://github.com/tuhinaww/SentimentScan.git
 ```
 ## Step 2: Install Dependencies
 
