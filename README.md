@@ -2,6 +2,12 @@
 
 Welcome to SentimentScan, the Yelp restaurant review sentiment analyzer! SentimentScan is a simple yet powerful web app that uses the BERT model to help you understand the sentiments expressed in Yelp restaurant reviews. Whether you're a restaurant owner looking for insights or just curious about what people think, SentimentScan has got you covered.
 
+
+
+https://github.com/tuhinaww/SentimentScan/assets/119059108/3062df61-551c-44c5-bdc0-f6ac4063af1b
+
+
+
 ## How to Run SentimentScan Locally
 
 Follow these steps to run SentimentScan on your local machine:
